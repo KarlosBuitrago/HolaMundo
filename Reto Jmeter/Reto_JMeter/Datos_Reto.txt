@@ -1,0 +1,20 @@
+Jose Rivera,calle 35 12-32,Cali,Valle,65847,Visa,9098763954,2,2021,Jose Rivera,on
+Carla morales,calle 12 12-33,Tunja,Boyaca,38974,American Express,4782096332,3,2019,Carla morales,
+Sofia Rico,carrera 35 12-34,Palmiara,Valle,94837,Diner큦 Club,3023957719,7,2021,Sofia Rico,on
+Alexandra Gonzalez,calle 23 12-35,Popayan,Cauca,14071,Visa,4361668393,2,2021,Alexandra Gonzalez,
+Valentina Plazas,carrera 35 12-36,Alvarado,Tolima,59142,American Express,3841631089,6,2019,Valentina Plazas,on
+Camilo Roso,calle 35 12-37,Manizales,Caldas,55743,Diner큦 Club,1634875874,5,2021,Camilo Roso,
+Alexander Diaz,calle 35 8-38,La Dorada,Caldas,47377,Visa,4249569439,8,2019,Alexander Diaz,on
+Alejandra Trejos,diagonal 35 12-39,Alpujarra,Tolima,88087,American Express,5879943842,12,2022,Alejandra Trejos,on
+Walter Dumas,Plaza 25 ,El Gigante,Huila,97592,Diner큦 Club,1850582033,3,2021,Walter Dumas,on
+Maria Rincon,calle 35 12-41,Neiva,Huila,60932,Visa,8158736069,2,2022,Maria Rincon,on
+Jose Vera,El estadio 12-42,Cali,Valle,49608,American Express,3302976753,10,2021,Jose Vera,on
+Juan Bermudes,calle 35 12-99,Tunja,Boyaca,42366,Diner큦 Club,9218812288,11,2020,Juan Bermudes,
+Mario Garcia,Cra 8f 34-07,Tunja,Boyaca,25640,American Express,9210076369,11,2020,Mario Garcia,on
+Jose Dominguez,Av La Paz 150,Palmiara,Valle,20718,Diner큦 Club,4271833468,5,2017,Jose Dominguez,
+Alirio Flores,Calla 14 2-07,Popayan,Cauca,19284,Visa,6417977196,12,2020,Alirio Flores,on
+Maria Conchita,Av Las Palmas,Alvarado,Tolima,24706,American Express,7578825072,4,2017,Maria Conchita,on
+Flavia Dossactos,Monte Bonito Apto 505 T 4,Manizales,Caldas,86698,Diner큦 Club,3136599816,6,2018,Flavia Dossactos,on
+Mirlita Perez,Diagonal 25 32-25,La Dorada,Caldas,91607,Visa,7003392293,6,2022,Mirlita Perez,on
+Anastasio Huelgas,cra 5 76-09,Alpujarra,Tolima,79945,American Express,5731861031,12,2018,Anastasio Huelgas,on
+Miriam de la Paz,Av Sonto Melo,El Gigante,Huila,44911,Diner큦 Club,8665744956,10,2017,Miriam de la Paz,

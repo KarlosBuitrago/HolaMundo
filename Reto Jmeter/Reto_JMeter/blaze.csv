@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654789954790,648,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-1,text,false,"La operación duró demasiado: tardó 648 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1515,363,1,1,https://www.blazedemo.com/,648,0,400
+1654789959004,313,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-1,text,true,,1592,543,1,1,https://www.blazedemo.com/reserve.php,313,0,0
+1654789962916,268,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-1,text,true,,1828,598,1,1,https://www.blazedemo.com/purchase.php,264,0,0
+1654789968593,337,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-1,text,true,,1597,739,2,2,https://www.blazedemo.com/confirmation.php,336,0,0
+1654789971848,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-1,text,true,,612,0,2,2,null,0,0,0
+1654789973961,500,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-2,text,true,,1452,363,1,1,https://www.blazedemo.com/,496,0,252
+1654789977296,258,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-2,text,true,,1491,546,1,1,https://www.blazedemo.com/reserve.php,257,0,0
+1654789980422,312,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-2,text,true,,1851,601,2,2,https://www.blazedemo.com/purchase.php,312,0,0
+1654789985482,338,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-2,text,true,,1578,755,2,2,https://www.blazedemo.com/confirmation.php,337,0,0
+1654789988029,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-2,text,true,,637,0,2,2,null,0,0,0
+1654789987798,493,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-3,text,true,,1503,363,1,1,https://www.blazedemo.com/,493,0,242
+1654789992840,245,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-3,text,true,,1448,554,1,1,https://www.blazedemo.com/reserve.php,245,0,0
+1654789994229,242,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-3,text,true,,1792,609,1,1,https://www.blazedemo.com/purchase.php,242,0,0
+1654789996220,376,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-3,text,true,,1545,759,2,2,https://www.blazedemo.com/confirmation.php,376,0,0
+1654790000416,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-3,text,true,,657,0,2,2,null,0,0,0
+1654790001941,476,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-4,text,true,,1496,363,1,1,https://www.blazedemo.com/,475,0,247
+1654790004553,299,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-4,text,true,,1422,555,1,1,https://www.blazedemo.com/reserve.php,299,0,0
+1654790006326,424,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-4,text,true,,1703,610,1,1,https://www.blazedemo.com/purchase.php,423,0,0
+1654790011580,312,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-4,text,true,,1608,754,2,2,https://www.blazedemo.com/confirmation.php,312,0,0
+1654790013456,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-4,text,true,,662,0,2,2,null,0,0,0
+1654790015844,477,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-5,text,true,,1333,363,1,1,https://www.blazedemo.com/,477,0,248
+1654790018236,393,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-5,text,true,,1648,551,1,1,https://www.blazedemo.com/reserve.php,393,0,0
+1654790020955,257,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-5,text,true,,1685,606,1,1,https://www.blazedemo.com/purchase.php,254,0,0
+1654790023499,279,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-5,text,true,,1420,768,1,1,https://www.blazedemo.com/confirmation.php,278,0,0
+1654790027105,1,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-5,text,true,,665,0,2,2,null,0,0,0
+1654790032360,564,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-6,text,true,,1367,363,1,1,https://www.blazedemo.com/,563,0,329
+1654790036034,238,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-6,text,true,,1602,550,1,1,https://www.blazedemo.com/reserve.php,237,0,0
+1654790040751,391,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-6,text,true,,1714,605,2,2,https://www.blazedemo.com/purchase.php,391,0,0
+1654790044589,265,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-6,text,true,,1472,759,2,2,https://www.blazedemo.com/confirmation.php,265,0,0
+1654790045298,727,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-7,text,false,"La operación duró demasiado: tardó 727 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1425,363,2,2,https://www.blazedemo.com/,726,0,355
+1654790047264,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-6,text,true,,645,0,2,2,null,0,0,0
+1654790047827,277,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-7,text,true,,1511,553,1,1,https://www.blazedemo.com/reserve.php,277,0,0
+1654790053003,273,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-7,text,true,,1738,608,1,1,https://www.blazedemo.com/purchase.php,272,0,0
+1654790057148,250,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-7,text,true,,1613,750,2,2,https://www.blazedemo.com/confirmation.php,250,0,0
+1654790061530,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-7,text,true,,652,0,2,2,null,0,0,0
+1654790063442,709,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-8,text,false,"La operación duró demasiado: tardó 709 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1343,363,1,1,https://www.blazedemo.com/,709,0,420
+1654790067929,238,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-8,text,true,,1543,552,1,1,https://www.blazedemo.com/reserve.php,238,0,0
+1654790070822,244,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-8,text,true,,1667,607,2,2,https://www.blazedemo.com/purchase.php,241,0,0
+1654790074611,247,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-8,text,true,,1552,771,2,2,https://www.blazedemo.com/confirmation.php,246,0,0
+1654790074810,485,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-9,text,true,,1474,363,2,2,https://www.blazedemo.com/,485,0,248
+1654790078077,1,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-8,text,true,,671,0,2,2,null,0,0,0
+1654790080128,233,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-9,text,true,,1419,545,1,1,https://www.blazedemo.com/reserve.php,231,0,0
+1654790081640,232,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-9,text,true,,1755,600,1,1,https://www.blazedemo.com/purchase.php,231,0,0
+1654790083056,238,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-9,text,true,,1621,758,1,1,https://www.blazedemo.com/confirmation.php,238,0,0
+1654790085916,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-9,text,true,,629,0,2,2,null,0,0,0
+1654790089813,502,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-10,text,true,,1537,363,1,1,https://www.blazedemo.com/,502,0,257
+1654790094541,316,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-10,text,true,,1563,555,1,1,https://www.blazedemo.com/reserve.php,315,0,0
+1654790096554,264,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-10,text,true,,1783,610,1,1,https://www.blazedemo.com/purchase.php,264,0,0
+1654790098434,477,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-10,text,true,,1572,742,1,1,https://www.blazedemo.com/confirmation.php,477,0,0
+1654790099601,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-10,text,true,,637,0,1,1,null,0,0,0
+1654790107512,484,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-11,text,true,,1308,363,1,1,https://www.blazedemo.com/,483,0,253
+1654790111173,285,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-11,text,true,,1598,543,1,1,https://www.blazedemo.com/reserve.php,285,0,0
+1654790113045,241,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-11,text,true,,1848,598,1,1,https://www.blazedemo.com/purchase.php,241,0,0
+1654790116980,297,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-11,text,true,,1545,750,2,2,https://www.blazedemo.com/confirmation.php,297,0,0
+1654790119772,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-11,text,true,,624,0,2,2,null,0,0,0
+1654790121418,600,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-12,text,true,,1324,363,1,1,https://www.blazedemo.com/,599,0,263
+1654790126411,240,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-12,text,true,,1409,547,1,1,https://www.blazedemo.com/reserve.php,239,0,0
+1654790128019,232,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-12,text,true,,1714,602,1,1,https://www.blazedemo.com/purchase.php,232,0,0
+1654790131896,285,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-12,text,true,,1542,760,2,2,https://www.blazedemo.com/confirmation.php,282,0,0
+1654790134095,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-12,text,true,,636,0,2,2,null,0,0,0
+1654790137257,674,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-13,text,false,"La operación duró demasiado: tardó 674 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1554,363,1,1,https://www.blazedemo.com/,673,0,237
+1654790139237,265,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-13,text,true,,1596,547,1,1,https://www.blazedemo.com/reserve.php,264,0,0
+1654790141666,859,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-13,text,false,"La operación duró demasiado: tardó 859 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1699,602,1,1,https://www.blazedemo.com/purchase.php,859,0,0
+1654790147306,280,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-13,text,true,,1592,754,2,2,https://www.blazedemo.com/confirmation.php,275,0,0
+1654790148128,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-13,text,true,,640,0,2,2,null,0,0,0
+1654790151375,546,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-14,text,true,,1446,363,1,1,https://www.blazedemo.com/,545,0,273
+1654790152696,332,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-14,text,true,,1564,548,1,1,https://www.blazedemo.com/reserve.php,331,0,0
+1654790154858,304,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-14,text,true,,1768,603,1,1,https://www.blazedemo.com/purchase.php,303,0,0
+1654790157552,475,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-14,text,true,,1652,762,1,1,https://www.blazedemo.com/confirmation.php,475,0,0
+1654790161865,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-14,text,true,,643,0,2,2,null,0,0,0
+1654790165370,746,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-15,text,false,"La operación duró demasiado: tardó 746 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1398,363,1,1,https://www.blazedemo.com/,744,0,280
+1654790169866,390,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-15,text,true,,1545,545,1,1,https://www.blazedemo.com/reserve.php,390,0,0
+1654790171495,355,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-15,text,true,,1750,600,1,1,https://www.blazedemo.com/purchase.php,354,0,0
+1654790175306,461,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-15,text,true,,1470,746,2,2,https://www.blazedemo.com/confirmation.php,460,0,0
+1654790176283,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-15,text,true,,626,0,2,2,null,0,0,0
+1654790180816,492,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-16,text,true,,1500,363,1,1,https://www.blazedemo.com/,492,0,256
+1654790185580,465,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-16,text,true,,1483,544,1,1,https://www.blazedemo.com/reserve.php,459,0,0
+1654790188496,333,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-16,text,true,,1706,599,1,1,https://www.blazedemo.com/purchase.php,332,0,0
+1654790190722,235,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-16,text,true,,1635,761,2,2,https://www.blazedemo.com/confirmation.php,235,0,0
+1654790195491,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-16,text,true,,638,0,2,2,null,0,0,0
+1654790197918,562,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-17,text,true,,1488,363,1,1,https://www.blazedemo.com/,562,0,283
+1654790200734,235,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-17,text,true,,1640,550,1,1,https://www.blazedemo.com/reserve.php,235,0,0
+1654790204114,358,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-17,text,true,,1826,605,1,1,https://www.blazedemo.com/purchase.php,358,0,0
+1654790208718,254,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-17,text,true,,1653,782,2,2,https://www.blazedemo.com/confirmation.php,253,0,0
+1654790208992,479,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-18,text,true,,1521,363,2,2,https://www.blazedemo.com/,478,0,232
+1654790213809,1,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-17,text,true,,669,0,2,2,null,0,0,0
+1654790214700,297,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-18,text,true,,1610,542,1,1,https://www.blazedemo.com/reserve.php,297,0,0
+1654790216064,258,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-18,text,true,,1679,597,1,1,https://www.blazedemo.com/purchase.php,258,0,0
+1654790218661,388,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-18,text,true,,1623,752,1,1,https://www.blazedemo.com/confirmation.php,388,0,0
+1654790221401,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-18,text,true,,623,0,2,2,null,0,0,0
+1654790226313,483,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-19,text,true,,1472,363,1,1,https://www.blazedemo.com/,482,0,249
+1654790228235,259,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-19,text,true,,1516,547,1,1,https://www.blazedemo.com/reserve.php,258,0,0
+1654790232873,233,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-19,text,true,,1695,602,1,1,https://www.blazedemo.com/purchase.php,233,0,0
+1654790238529,264,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-19,text,true,,1410,767,2,2,https://www.blazedemo.com/confirmation.php,263,0,0
+1654790240296,519,Home_blaze,200,OK,RetoBlazeDemoJmeter 1-20,text,true,,1327,363,2,2,https://www.blazedemo.com/,518,0,262
+1654790243073,252,seleccionar_destino_blaze,200,OK,RetoBlazeDemoJmeter 1-20,text,true,,1639,548,2,2,https://www.blazedemo.com/reserve.php,252,0,0
+1654790243365,0,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-19,text,true,,653,0,2,2,null,0,0,0
+1654790247953,759,seleccionar_vuelo_blaze,200,OK,RetoBlazeDemoJmeter 1-20,text,false,"La operación duró demasiado: tardó 759 milisegundos, cuando no debería haber tardado más de 600 milisegundos.",1646,603,1,1,https://www.blazedemo.com/purchase.php,759,0,0
+1654790252766,389,Llenar_informacion_blaze,200,OK,RetoBlazeDemoJmeter 1-20,text,true,,1525,769,1,1,https://www.blazedemo.com/confirmation.php,388,0,0
+1654790258068,1,Debug Sampler,200,OK,RetoBlazeDemoJmeter 1-20,text,true,,650,0,1,1,null,0,0,0

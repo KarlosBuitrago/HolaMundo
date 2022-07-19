@@ -1,0 +1,60 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654788767742,7426,Home/-166,200,OK,Automation_Store 1-1,text,true,,82601,737,2,2,http://automationpractice.com/index.php,1964,0,142
+1654788767742,1964,Home/-166-0,302,Moved,Automation_Store 1-1,text,true,,306,364,2,2,http://automationpractice.com/,1964,0,142
+1654788769706,5462,Home/-166-1,200,OK,Automation_Store 1-1,text,true,,82295,373,2,2,http://automationpractice.com/index.php,4996,0,0
+1654788768369,7938,Home/-166,200,OK,Automation_Store 1-2,text,true,,82587,737,2,2,http://automationpractice.com/index.php,3820,0,161
+1654788768369,3820,Home/-166-0,302,Moved,Automation_Store 1-2,text,true,,306,364,2,2,http://automationpractice.com/,3820,0,161
+1654788772190,4117,Home/-166-1,200,OK,Automation_Store 1-2,text,true,,82281,373,2,2,http://automationpractice.com/index.php,3644,0,0
+1654788778987,12324,Login/index.php-275,200,OK,Automation_Store 1-1,text,true,,36118,910,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,3309,0,101
+1654788778987,3309,Login/index.php-275-0,302,Moved Temporarily,Automation_Store 1-1,text,true,,606,445,2,2,http://automationpractice.com/index.php?controller=my-account,3309,0,101
+1654788782296,9015,Login/index.php-275-1,200,OK,Automation_Store 1-1,text,true,,35512,465,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,8209,0,0
+1654788779373,13221,Login/index.php-275,200,OK,Automation_Store 1-2,text,true,,36140,910,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,3607,0,106
+1654788779373,3607,Login/index.php-275-0,302,Moved Temporarily,Automation_Store 1-2,text,true,,606,445,2,2,http://automationpractice.com/index.php?controller=my-account,3607,0,106
+1654788782980,9614,Login/index.php-275-1,200,OK,Automation_Store 1-2,text,true,,35534,465,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,9014,0,0
+1654788793341,9545,Iniciar sesion/index.php?controller=authentication-277,200,OK,Automation_Store 1-2,text,true,,35819,671,2,2,http://automationpractice.com/index.php?controller=authentication,9343,0,0
+1654788792519,19020,Iniciar sesion/index.php?controller=authentication-277,200,OK,Automation_Store 1-1,text,true,,37567,1847,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,7173,0,0
+1654788792519,7173,Iniciar sesion/index.php?controller=authentication-277-0,302,Moved Temporarily,Automation_Store 1-1,text,true,,1476,677,2,2,http://automationpractice.com/index.php?controller=authentication,7173,0,0
+1654788799691,5403,Iniciar sesion/index.php?controller=authentication-277-1,302,Moved Temporarily,Automation_Store 1-1,text,true,,579,575,2,2,http://automationpractice.com/index.php?controller=my-account,5403,0,0
+1654788805095,6445,Iniciar sesion/index.php?controller=authentication-277-2,200,OK,Automation_Store 1-1,text,true,,35512,595,2,2,http://automationpractice.com/index.php?controller=authentication&back=my-account,5892,0,0
+1654788814453,91,Home privado/-280,Non HTTP response code: org.apache.http.NoHttpResponseException,Non HTTP response message: automationpractice.com:80 failed to respond,Automation_Store 1-1,text,false,Test failed: code expected to contain /200/,2091,0,2,2,http://automationpractice.com/,0,0,0
+1654788807376,12304,Home privado/-280,200,OK,Automation_Store 1-2,text,true,,82589,881,2,2,http://automationpractice.com/index.php,4010,0,97
+1654788807376,4010,Home privado/-280-0,302,Moved,Automation_Store 1-2,text,true,,306,436,2,2,http://automationpractice.com/,4010,0,97
+1654788811387,8293,Home privado/-280-1,200,OK,Automation_Store 1-2,text,true,,82283,445,2,2,http://automationpractice.com/index.php,7417,0,0
+1654788815892,14386,Elegir producto/index.php?rand=1654727704566-285,200,OK,Automation_Store 1-1,text,true,,82890,1159,2,2,http://automationpractice.com/index.php,6826,0,100
+1654788815892,6826,Elegir producto/index.php?rand=1654727704566-285-0,302,Moved Temporarily,Automation_Store 1-1,text,true,,619,632,2,2,http://automationpractice.com/index.php?rand=1654727704566,6826,0,100
+1654788822718,7560,Elegir producto/index.php?rand=1654727704566-285-1,200,OK,Automation_Store 1-1,text,true,,82271,527,2,2,http://automationpractice.com/index.php,7069,0,0
+1654788823977,7110,Elegir producto/index.php?rand=1654727704566-285,200,OK,Automation_Store 1-2,text,true,,790,656,2,2,http://automationpractice.com/index.php?rand=1654727704566,6666,0,102
+1654788830989,6615,Confirmar producto/index.php-287,200,OK,Automation_Store 1-1,text,true,,26797,440,2,2,http://automationpractice.com/index.php?controller=order,6332,0,0
+1654788833160,6554,Confirmar producto/index.php-287,200,OK,Automation_Store 1-2,text,true,,26807,440,2,2,http://automationpractice.com/index.php?controller=order,6356,0,0
+1654788844901,6696,adicionar unidad producto/index.php?rand=1654727751524-289,200,OK,Automation_Store 1-2,text,true,,3267,760,2,2,http://automationpractice.com/index.php?rand=1654727751524,6496,0,104
+1654788841924,12286,adicionar unidad producto/index.php?rand=1654727751524-289,200,OK,Automation_Store 1-1,text,true,,82896,1280,2,2,http://automationpractice.com/index.php,3470,0,103
+1654788841924,3470,adicionar unidad producto/index.php?rand=1654727751524-289-0,302,Moved Temporarily,Automation_Store 1-1,text,true,,613,736,2,2,http://automationpractice.com/index.php?rand=1654727751524,3470,0,103
+1654788845394,8816,adicionar unidad producto/index.php?rand=1654727751524-289-1,200,OK,Automation_Store 1-1,text,true,,82283,544,2,2,http://automationpractice.com/index.php,7695,0,0
+1654788853656,10657,Confirmar pedido/index.php-290,200,OK,Automation_Store 1-2,text,true,,26706,464,2,2,http://automationpractice.com/index.php?controller=order&step=1,10229,0,0
+1654788857559,11752,Confirmar pedido/index.php-290,200,OK,Automation_Store 1-1,text,true,,26733,464,2,2,http://automationpractice.com/index.php?controller=order&step=1,11034,0,101
+1654788866348,9469,direccion/index.php?controller=order-291,200,OK,Automation_Store 1-2,text,true,,26793,658,2,2,http://automationpractice.com/index.php?controller=order,8935,0,0
+1654788871741,9360,direccion/index.php?controller=order-291,200,OK,Automation_Store 1-1,text,true,,26795,658,2,2,http://automationpractice.com/index.php?controller=order,8960,0,0
+1654788878120,8265,Aceptar terminos/index.php?controller=order&multi-shipping=-293,200,OK,Automation_Store 1-2,text,true,,26611,649,2,2,http://automationpractice.com/index.php?controller=order&multi-shipping=,7575,0,0
+1654788886470,10632,Aceptar terminos/index.php?controller=order&multi-shipping=-293,200,OK,Automation_Store 1-1,text,true,,26646,649,2,2,http://automationpractice.com/index.php?controller=order&multi-shipping=,10017,0,101
+1654788891775,8117,Pagar/index.php-294,200,OK,Automation_Store 1-2,text,true,,26863,501,2,2,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=payment,7618,0,97
+1654788898418,5977,Pagar/index.php-294,200,OK,Automation_Store 1-1,text,true,,26834,501,2,2,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=payment,5778,0,0
+1654788903197,12912,Confirmar pago/index.php?fc=module&module=bankwire&controller=validation-295,200,OK,Automation_Store 1-2,text,true,,27326,1224,2,2,http://automationpractice.com/index.php?controller=order&step=1,5803,0,100
+1654788903197,5803,Confirmar pago/index.php?fc=module&module=bankwire&controller=validation-295-0,302,Moved Temporarily,Automation_Store 1-2,text,true,,610,644,2,2,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=validation,5803,0,100
+1654788909000,7109,Confirmar pago/index.php?fc=module&module=bankwire&controller=validation-295-1,200,OK,Automation_Store 1-2,text,true,,26716,580,2,2,http://automationpractice.com/index.php?controller=order&step=1,6692,0,0
+1654788908909,16276,Confirmar pago/index.php?fc=module&module=bankwire&controller=validation-295,200,OK,Automation_Store 1-1,text,true,,27312,1224,2,2,http://automationpractice.com/index.php?controller=order&step=1,4830,0,106
+1654788908909,4830,Confirmar pago/index.php?fc=module&module=bankwire&controller=validation-295-0,302,Moved Temporarily,Automation_Store 1-1,text,true,,604,644,2,2,http://automationpractice.com/index.php?fc=module&module=bankwire&controller=validation,4830,0,106
+1654788913740,11445,Confirmar pago/index.php?fc=module&module=bankwire&controller=validation-295-1,200,OK,Automation_Store 1-1,text,true,,26708,580,2,2,http://automationpractice.com/index.php?controller=order&step=1,10750,0,0
+1654788917780,23004,Salir/index.php-300,200,OK,Automation_Store 1-2,text,true,,37320,2315,2,2,http://automationpractice.com/index.php?controller=authentication&back=history,6610,0,0
+1654788917780,6610,Salir/index.php-300-0,302,Moved Temporarily,Automation_Store 1-2,text,true,,662,544,2,2,http://automationpractice.com/index.php?mylogout=,6610,0,0
+1654788924390,5827,Salir/index.php-300-1,302,Moved Temporarily,Automation_Store 1-2,text,true,,580,645,2,2,http://automationpractice.com/index.php?controller=order-confirmation&id_cart=4704247&id_module=3&id_order=443607&key=bed8e4740bf97bd716d02b3e264ed62c,5827,0,0
+1654788930217,5586,Salir/index.php-300-2,302,Moved Temporarily,Automation_Store 1-2,text,true,,572,553,2,2,http://automationpractice.com/index.php?controller=history,5586,0,0
+1654788935802,4981,Salir/index.php-300-3,200,OK,Automation_Store 1-2,text,true,,35506,573,2,2,http://automationpractice.com/index.php?controller=authentication&back=history,4702,0,0
+1654788927334,16680,Salir/index.php-300,200,OK,Automation_Store 1-1,text,true,,37334,2315,2,2,http://automationpractice.com/index.php?controller=authentication&back=history,5354,0,0
+1654788927334,5354,Salir/index.php-300-0,302,Moved Temporarily,Automation_Store 1-1,text,true,,664,544,2,2,http://automationpractice.com/index.php?mylogout=,5354,0,0
+1654788932688,5111,Salir/index.php-300-1,302,Moved Temporarily,Automation_Store 1-1,text,true,,576,645,2,2,http://automationpractice.com/index.php?controller=order-confirmation&id_cart=4704247&id_module=3&id_order=443607&key=bed8e4740bf97bd716d02b3e264ed62c,5111,0,0
+1654788937798,3291,Salir/index.php-300-2,302,Moved Temporarily,Automation_Store 1-1,text,true,,578,553,2,2,http://automationpractice.com/index.php?controller=history,3291,0,0
+1654788941089,2924,Salir/index.php-300-3,200,OK,Automation_Store 1-1,text,true,,35516,573,2,2,http://automationpractice.com/index.php?controller=authentication&back=history,2711,0,0
+1654788945008,0,Debug Sampler,200,OK,Automation_Store 1-2,text,true,,475,0,2,2,null,0,0,0
+1654788945631,369,jp@gc - Dummy Sampler,200,OK,Automation_Store 1-2,text,true,,60,0,2,2,null,47,0,4
+1654788948455,1,Debug Sampler,200,OK,Automation_Store 1-1,text,true,,353,0,1,1,null,0,0,0
+1654788953273,133,jp@gc - Dummy Sampler,200,OK,Automation_Store 1-1,text,true,,42,0,1,1,null,11,0,2
